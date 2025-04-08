@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on project Home-Server<br><br>💬 Ask me about arduinos and raspberry pi's
+💬 Ask me about arduinos and raspberry pi's
 
 
 ## 🌐 Socials:
